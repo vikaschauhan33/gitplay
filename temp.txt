@@ -10,3 +10,5 @@ this is the feature line.
 added in master branch @@@
 
 add another featue line.::::::
+added in new branch !!!!
+>>>>>>> added in new-branch
